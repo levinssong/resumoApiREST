@@ -36,7 +36,7 @@ foi bem sucedida ou se ocorreu algum erro, seja por parte do cliente ou do próp
   Essas respostas são divididas em cinco classes, o primeiro dígito do número define a qual classe de resposta 
 ele pertence, sendo elas:**
  
-1.Informação: \_números que começam com **1**\_
+1.Informação: \_números que começam com **1\_**
 
 2.Bem-sucedida: \_números que começam com **2**\_
 
