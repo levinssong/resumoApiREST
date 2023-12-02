@@ -36,15 +36,15 @@ foi bem sucedida ou se ocorreu algum erro, seja por parte do cliente ou do próp
   Essas respostas são divididas em cinco classes, o primeiro dígito do número define a qual classe de resposta 
 ele pertence, sendo elas:**
  
-1.Informação: \_números que começam com **1\_**
+1.Informação: números que começam com **1**
 
-2.Bem-sucedida: \_números que começam com **2**\_
+2.Bem-sucedida: números que começam com **2**
 
-3.Redirecionamento: \_números que começam com **3**\_
+3.Redirecionamento: números que começam com **3**
 
-4.Erro do cliente: \_números que começam com **4**\_
+4.Erro do cliente: números que começam com **4**
 
-5.Erro do servidor: \_números que começam com **5**\_
+5.Erro do servidor: números que começam com **5**
 
 --
 
